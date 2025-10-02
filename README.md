@@ -1,0 +1,1 @@
+This repository contains a simple data processing pipeline using Linux commands and bash scripts. It covered basic file manipulation, automation, permissions management, scheduling with cron, and logging.
