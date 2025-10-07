@@ -1,11 +1,11 @@
 This repository contains a simple data processing pipeline using Linux commands and bash scripts. It coveres:
 
-📂 Basic file manipulation
+* 📂 Basic file manipulation
 
-⚙️ Automation with shell scripts
+* ⚙️ Automation with shell scripts
 
-🔒 Permissions management
+* 🔒 Permissions management
 
-⏰ Task scheduling with cron
+* ⏰ Task scheduling with cron
 
-📝 Logging pipeline execution
+* 📝 Logging pipeline execution
