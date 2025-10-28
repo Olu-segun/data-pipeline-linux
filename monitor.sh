@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOG_DIR=data_pipeline_linux/logs
+LOG_DIR=data_pipeline_/logs
 SUMMARY_LOG=$LOG_DIR/monitor_summary.log
 
 echo "[$(date)] Starting log monitoring....." >> $SUMMARY_LOG

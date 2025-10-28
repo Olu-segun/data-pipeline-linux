@@ -2,7 +2,7 @@
 
 #Define Directories
 
-BASE_DIR=data_pipeline_linux
+BASE_DIR=data_pipeline
 INPUT_DIR=$BASE_DIR/input
 OUTPUT_DIR=$BASE_DIR/output
 LOG_DIR=$BASE_DIR/logs
