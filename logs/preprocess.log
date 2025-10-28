@@ -1,4 +1,0 @@
-awk: cmd. line:1: BEGIN S=",";  OFS="," {print $1, $2, $3, $4, $5, $6} $6 != "Failed"
-awk: cmd. line:1:       ^ syntax error
-[Wed Oct  8 00:00:02 CEST 2025] Data extraction completed successfully.
-[Wed Oct  8 00:03:01 CEST 2025] Data processing completed sucessfully.
