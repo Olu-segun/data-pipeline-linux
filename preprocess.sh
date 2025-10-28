@@ -8,7 +8,7 @@ OUTPUT_DIR=$BASE_DIR/output
 LOG_DIR=$BASE_DIR/logs
 LOG_FILE=$LOG_DIR/preproces.log
 INPUT_FILE="$INPUT_DIR/raw_sales_data.csv"
-CLEANED_FILE="OUTPUT_DIR/cleaned_sales_data.csv"
+CLEANED_FILE="$OUTPUT_DIR/cleaned_sales_data.csv"
 DATA_PATH="https://raw.githubusercontent.com/dataengineering-community/launchpad/refs/heads/main/Linux/sales_data.csv"
 
 # Create directories if they do not exist.

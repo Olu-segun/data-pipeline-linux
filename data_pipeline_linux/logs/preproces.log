@@ -1,0 +1,20 @@
+==============================
+Pipeline start running at: Tue, Oct 28, 2025 10:57:08 AM
+[Tue, Oct 28, 2025 10:57:09 AM] Downloading the raw sales data...
+[Tue, Oct 28, 2025 10:57:10 AM] Dataset downloaded successfully to data_pipeline_linux/input/raw_sales_data.csv
+[Tue, Oct 28, 2025 10:57:10 AM] Starting data cleaning...
+[Tue, Oct 28, 2025 10:57:10 AM] ERROR: Data cleaning failed.
+==============================
+Pipeline start running at: Tue, Oct 28, 2025 11:00:43 AM
+[Tue, Oct 28, 2025 11:00:43 AM] Dataset already exists at data_pipeline_linux/input/raw_sales_data.csv. Skipping download.
+[Tue, Oct 28, 2025 11:00:43 AM] Starting data cleaning...
+[Tue, Oct 28, 2025 11:00:44 AM] Data processing completed sucessfully. Cleaned file saved to data_pipeline_linux/output/cleaned_sales_data.csv
+Pipeline  completed successfully at: [Tue, Oct 28, 2025 11:00:44 AM]
+=====================================
+==============================
+Pipeline start running at: Tue, Oct 28, 2025 11:13:52 AM
+[Tue, Oct 28, 2025 11:13:53 AM] Dataset already exists at data_pipeline_linux/input/raw_sales_data.csv. Skipping download.
+[Tue, Oct 28, 2025 11:13:53 AM] Starting data cleaning...
+[Tue, Oct 28, 2025 11:13:53 AM] Data processing completed sucessfully. Cleaned file saved to data_pipeline_linux/output/cleaned_sales_data.csv
+Pipeline  completed successfully at: [Tue, Oct 28, 2025 11:13:53 AM]
+=====================================

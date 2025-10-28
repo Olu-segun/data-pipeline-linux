@@ -1,0 +1,22 @@
+[Tue, Oct 28, 2025 11:03:06 AM] Starting log monitoring.....
+[Tue, Oct 28, 2025 11:03:06 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/preproces.log:[Tue, Oct 28, 2025 10:57:10 AM] ERROR: Data cleaning failed.
+[Tue, Oct 28, 2025 11:11:06 AM] Starting log monitoring.....
+[Tue, Oct 28, 2025 11:11:06 AM] Error found during pipeline execution:
+[Tue, Oct 28, 2025 11:13:02 AM] Starting log monitoring.....
+[Tue, Oct 28, 2025 11:13:02 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/monitor_summary.log:[Tue, Oct 28, 2025 11:03:06 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/monitor_summary.log:data_pipeline_linux/logs/preproces.log:[Tue, Oct 28, 2025 10:57:10 AM] ERROR: Data cleaning failed.
+data_pipeline_linux/logs/monitor_summary.log:[Tue, Oct 28, 2025 11:11:06 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/preproces.log:[Tue, Oct 28, 2025 10:57:10 AM] ERROR: Data cleaning failed.
+[Tue, Oct 28, 2025 11:15:36 AM] Starting log monitoring.....
+[Tue, Oct 28, 2025 11:15:36 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/monitor_summary.log:[Tue, Oct 28, 2025 11:03:06 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/monitor_summary.log:data_pipeline_linux/logs/preproces.log:[Tue, Oct 28, 2025 10:57:10 AM] ERROR: Data cleaning failed.
+data_pipeline_linux/logs/monitor_summary.log:[Tue, Oct 28, 2025 11:11:06 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/monitor_summary.log:[Tue, Oct 28, 2025 11:13:02 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/monitor_summary.log:data_pipeline_linux/logs/monitor_summary.log:[Tue, Oct 28, 2025 11:03:06 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/monitor_summary.log:data_pipeline_linux/logs/monitor_summary.log:data_pipeline_linux/logs/preproces.log:[Tue, Oct 28, 2025 10:57:10 AM] ERROR: Data cleaning failed.
+data_pipeline_linux/logs/monitor_summary.log:data_pipeline_linux/logs/monitor_summary.log:[Tue, Oct 28, 2025 11:11:06 AM] Error found during pipeline execution:
+data_pipeline_linux/logs/monitor_summary.log:data_pipeline_linux/logs/preproces.log:[Tue, Oct 28, 2025 10:57:10 AM] ERROR: Data cleaning failed.
+data_pipeline_linux/logs/preproces.log:[Tue, Oct 28, 2025 10:57:10 AM] ERROR: Data cleaning failed.
