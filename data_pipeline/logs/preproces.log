@@ -1,0 +1,23 @@
+==============================
+Pipeline start running at: Tue Nov 18 16:02:29 WAT 2025
+[Tue Nov 18 16:02:29 WAT 2025] Downloading the raw sales data...
+[Tue Nov 18 16:02:30 WAT 2025] Dataset downloaded successfully to data_pipeline/input/raw_sales_data.csv
+[Tue Nov 18 16:02:30 WAT 2025] Starting data cleaning...
+[Tue Nov 18 16:02:30 WAT 2025] Data processing completed sucessfully. Cleaned file saved to data_pipeline/output/cleaned_sales_data.csv
+Pipeline  completed successfully at: [Tue Nov 18 16:02:30 WAT 2025]
+=====================================
+==============================
+Pipeline start running at: Tue Nov 18 16:04:39 WAT 2025
+[Tue Nov 18 16:04:39 WAT 2025] Dataset already exists at data_pipeline/input/raw_sales_data.csv. Skipping download.
+[Tue Nov 18 16:04:39 WAT 2025] Starting data cleaning...
+[Tue Nov 18 16:04:39 WAT 2025] Data processing completed sucessfully. Cleaned file saved to data_pipeline/output/cleaned_sales_data.csv
+Pipeline  completed successfully at: [Tue Nov 18 16:04:39 WAT 2025]
+=====================================
+==============================
+Pipeline start running at: Tue Nov 18 16:13:46 WAT 2025
+[Tue Nov 18 16:13:46 WAT 2025] Downloading the raw sales data...
+[Tue Nov 18 16:13:47 WAT 2025] Dataset downloaded successfully to data_pipeline/input/raw_sales_data.csv
+[Tue Nov 18 16:13:47 WAT 2025] Starting data cleaning...
+[Tue Nov 18 16:13:47 WAT 2025] Data processing completed sucessfully. Cleaned file saved to data_pipeline/output/cleaned_sales_data.csv
+Pipeline  completed successfully at: [Tue Nov 18 16:13:47 WAT 2025]
+=====================================
