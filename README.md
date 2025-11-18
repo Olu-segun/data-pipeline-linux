@@ -121,6 +121,8 @@ output the first 6 columns (removing extra column)
 
 ## 🧑‍💻 Author
 
-Olusegun\
-Linux & Data Engineering Enthusiast
+Olusegun Olukayode\
+Data and Analytics Engineer | Business Intelligence Analyst | Automation Enthusiast
+
+
 
